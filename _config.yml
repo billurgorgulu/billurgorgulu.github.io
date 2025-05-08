@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Berk Görgülü"
+title                    : "Billur Görgülü"
 title_separator          : "-"
-name                     : &name "Berk Görgülü"
+name                     : &name "Billur Görgülü"
 description              : &description "page description"
 url                      : https://gorguluberk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gorguluberk/gorguluberk.github.io"
+repository               : "billurgorgulu/billurgorgulu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Berk Görgülü"
+  name             : "Billur Görgülü"
   avatar           : "profile.png"
   bio              : " "
-  location         : "Hamilton, ON, Canada"
-  employer         : "McMaster University"
+  location         : "Toronto, ON, Canada"
+  employer         : "University of Toronto"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=82VVKC0AAAAJ&hl=en"
   email            :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"gorguluberk"
+  github           : #"billurgorgulu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"gorguluberk"
-  orcid            : https://orcid.org/0000-0002-9135-946X
+  linkedin         : #"billurgorgulu"
+  orcid            : #https://orcid.org/0000-0002-9135-946X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

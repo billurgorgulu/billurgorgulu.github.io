@@ -7,20 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in Operations Management, at the [DeGroote School of Business](https://www.degroote.mcmaster.ca/), at [McMaster University](https://www.mcmaster.ca/). My research focuses on constructing data-driven, realistic models of healthcare operations and developing predictive and prescriptive analytics to support decision-making under uncertainty. My research methodologies include stochastic modeling and optimization, queueing theory, interpretable machine learning, and Markov decision processes.
+I am a PhD candidate in Economics, at the [University of Toronto](). My research focuses on xxxx.
 
 ### Education
-- Ph.D., [Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), 2023
-- M.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2018
-- B.S., [Industrial Engineering](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2017
+- Ph.D., [Economics](https://www.mie.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), 2026
+- M.S., [Economics](https://ie.boun.edu.tr/), [University of Toronto](https://www.boun.edu.tr/en_US), 2019
+- B.S., [Economics](https://ie.boun.edu.tr/), [Bogazici University](https://www.boun.edu.tr/en_US), 2018
 
 ### Contact Information
-Berk Gorgulu\
-DeGroote School of Business\
-McMaster University\
-1280 Main Street West\
-DSB 411\
-Hamilton, ON, L8S 4M4, CANADA
+Nazli Billur Gorgulu\
+XXX\
+University of Toronto\
+XXX\
+XXX\
+Toronto, ON, XXX XXX, CANADA
 
-E-mail: [gorgulub@mcmaster.ca](gorgulub@mcmaster.ca)\
+E-mail: [billurgorgulu@gmail.com](billurgorgulu@gmail.com)\
 Web: [https://research.degroote.mcmaster.ca/profiles/profile/?user=gorgulub](https://research.degroote.mcmaster.ca/profiles/profile/?user=gorgulub)

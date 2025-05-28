@@ -24,5 +24,5 @@ University of Toronto\
 Toronto, Ontario
 M5S 3G7, Canada
 
-E-mail: [billurgorgulu@gmail.com](billurgorgulu@gmail.com)\
+E-mail: [billur.gorgulu@mail.utoronto.com](billur.gorgulu@mail.utoronto.com)\
 Web: [https://billurgorgulu.github.io](https://billurgorgulu.github.io)

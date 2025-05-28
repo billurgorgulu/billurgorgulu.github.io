@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am the Manager of the Toronto Experimental Economics Lab ([TEEL](https://teel.economics.utoronto.ca)), and a PhD candidate at the Department of Economics.
+I am PhD candidate at the Department of Economics at the University of Toronto, and the Manager of the Toronto Experimental Economics Lab ([TEEL](https://teel.economics.utoronto.ca)).
 
 I am interested in behavioral economics, microeconomic theory, and experimental economics. My current research interest is on memory, learning, and decision making under uncertainty and over time. 
 

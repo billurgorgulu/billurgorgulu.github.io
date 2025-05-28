@@ -6,9 +6,18 @@ author_profile: true
 ---
 
 
+# Teaching Assistant
 
-**BUSQ773/ChE756/CSE776**: Mathematical Programming: Theory and Algorithms (PhD Core)     &nbsp; &nbsp; &nbsp;&nbsp;    Winter 2024 
+**University of Toronto**
+- ECO2200: Microeconomic Theory I (PhD)
+- ECO2201: Microeconomic Theory II (PhD)
+- ECO101: Principles of Microeconomics
+- ECO200: Intermediate Microeconomic Theory
+- ECO220: Introduction to Data Analysis and Applied Econometrics
+- ECO316: Applied Game Theory
+- ECO364: International Trade Theory
 
-**Commerce3DA3**: Predictive Analytics       &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                                                Fall 2024 
-
-**IBH2AD3**: Statistica Data Analysis      &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;                                                   Winter 2024, Fall 2024
+**Bogazic University**
+- EC203: Intermediate Microeconomics
+- EC361: International Economics
+- EC308: Advanced Macroeconomics

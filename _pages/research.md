@@ -6,67 +6,48 @@ author_profile: true
 ---
 
 ## Research Interests
-- *Methodologies*: Stochastic Modeling and Optimization, Queueing Theory, Interpretable Machine Learning, Markov Decision Processes, Approximate Dynamic Programming
-- *Application Areas*: Healthcare, Service Systems Staffing and Scheduling
+Behavioural Economics, Microeconomic Theory, Experimental Economics
 
-## Working Papers
-1. **Multiclass Queue Scheduling Under Slowdown: An Approximate Dynamic Programming Approach** [[link]](https://www.arxiv.org/abs/2501.10523)\
-with Jing Dong and Vahid Sarhangian
+## Research Papers
+**Eliciting Present Bias Under Uncertainty** (*draft available upon request*)\
+with Johannes Hoelzemann and Yoram Halevy
 
-2. **Optimizing Hard-to-Place Kidney Allocation: A Machine Learning Approach to Center Ranking** [[link]](https://arxiv.org/abs/2410.09116)\
-with Sean Berry, Sait Tunc and Mucahit Cevik
-
-3. **Intepretable Machine Learning for Personalized Breast Cancer Screening Recommendations**\
-with Sean Berry, Sait Tunc and Mucahit Cevik
-
-4. **Prototype Forest in Multiple Instance Learning**\
-with Ozgur E. Sivrikaya, Ali E. Banak and Mustafa G. Baydogan
-
-5. **A Concurrent CNN-RNN Approach for Multi-Step Wind Power Forecasting**\
-with Syed Kazmi, Mucahit Cevik and Mustafa G. Baydogan
-
-## Journal Papers
-1. **What Causes Delays in Admission to Rehabilitation Care? A Structural Estimation Approach** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2022.0377)\
-with Jing Dong and Vahid Sarhangian \
-*Manufacturing and Service Operations Management* (2024)
-
-2. **Inventory Management with Advance Booking Information: The Case of Surgical Supplies and Elective Surgeries** [[link]](https://pubsonline.informs.org/doi/10.1287/msom.2021.0063)\
-with Jacky Chan and Vahid Sarhangian \
-*Manufacturing and Service Operations Management* (2024)
-  
-4. **Column generation-based prototype learning for optimizing area under the receiver operating characteristic curve** [[link]](https://www.sciencedirect.com/science/article/pii/S0377221723008573)\
-with Erhan C. Ozcan and Mustafa G. Baydogan \
-*European Journal of Operational Reserach* (2024)
-
-6. **Association between delayed discharge from acute care and rehabilitation outcomes and length of stay: a retrospective cohort study** [[link]](https://www.archives-pmr.org/article/S0003-9993(22)00475-0/fulltext)\
-with  Jing Dong, Karen Hunter, Krista M. Bettio, Betty Vukusic, Jonathan Ranisau, Gary Spencer, Terence Tang, and Vahid Sarhangian\
-*Archives of Physical Medicine and Rehabilitation* (2023)
-
-8. **A Newsvendor Approach to Design of Surgical Preference Cards** [[link]](https://pubsonline.informs.org/doi/abs/10.1287/serv.2021.0298)\
-with Vahid Sarhangian\
-*Service Science* (2022)
-
-10. **Randomized trees for time series representation and similarity** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321002843)\
-with Mustafa G. Baydogan\
-*Pattern Recognition* (2021)
-
-12. **Explainable boosted linear regression for time series forecasting** [[link]](https://www.sciencedirect.com/science/article/pii/S0031320321003319)\
-with Igor Ilic, Mucahit Cevik and Mustafa G. Baydogan\
-*Pattern Recognition* (2021)
-
-14. **A Data Adaptive Biological Sequence Representation for Supervised Learning**[[link]](https://link.springer.com/article/10.1007/s41666-018-0038-5)\
-with Hande Cakin and Mustafa G. Baydogan\
-*Journal of Healthcare Informatics Research* (2018)
+We experimentally investigate intertemporal preferences under uncertainty. Our novel design allows
+the direct comparison of intertemporal preferences for certain, risky, and ambiguous future monetary
+rewards using choice lists. The results of our experiments suggest a significant impact of risk and
+ambiguity on time preferences: there is a lower incidence of present bias and a higher incidence of
+stationarity for uncertain payments compared to certain payments. Further, present bias for certain
+payments is correlated with static ambiguity aversion. We also investigate possible contamination of
+the elicited time preferences for immediate certain payments from the choice lists. This robustness
+experiment consists of a single binary choice problem and shows that present bias might even be
+underestimated using choice lists.
 
 
-## Conference Publications
-1.  **Augmented out-of-sample comparison method for time series forecasting techniques** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-47358-7_30)\
-with Igor Ilic and Mucahit Cevik\
-*Advances in Artificial Intelligence: 33rd Canadian Conference on Artificial Intelligence, Canadian AI 2020, Ottawa, ON, Canada, May 13–15, 2020, Proceedings* (2020)
+**Vulnerability as Strength: Trusting as a Credible Signal of Competence** (*draft available upon request*)\
+with Yuval Deutsch and Sabrina Deutsch Salamon
 
-2. **An Adaptive Large Neighborhood Search Heuristic for Jointly Solving Storage Location Assignment and Picker Routing Problem** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-18500-8_38)\
-with Necati Aras\
-*Operations Research Proceedings 2018: Selected Papers of the Annual International Conference of the German Operations Research Society (GOR), Brussels, Belgium, September 12-14, 2018* (2018)
+Why people trust without suﬃcient information about the trustworthiness of the other is a major
+puzzle in trust research. Drawing on evolutionary psychology signaling logic, we develop a formal
+model that oﬀers a novel explanation as to why leaders make this seemingly irrational decision. We
+demonstrate that leaders can signal superior competence by assuming the risk inherent to trusting.
+Credibly communicating competence, in turn, leads to improved outcomes for these leaders and their
+followers alike. We show that signaling is a viable strategy only for leaders with superior competence, who trust precisely because the risk they take renders that signal credible. The eﬀectiveness of the signaling is determined by the leaders’ knowledge of their subordinates’ trustworthiness, the impact of subordinates’ felt trust, and managers’ overconfidence.
 
 
+## Work In Progress
+**Optimal Learning When Forgetting** (*Job Market Paper*)
 
+Memory plays a crucial role in decision-making, yet economic models typically treat memory imper-
+fections as exogenous rather than outcomes of individual choices. This study investigates whether
+individuals actively shape their memory retention through their choice of encoding eﬀort. I develop a
+theoretical model where a decision-maker chooses costly eﬀort to exert when revising information that
+has been previously learned for the purpose of remembering the information at a future date. Under
+reasonable assumptions about the shape of the probability of recall function, I show that when the
+decision-maker is certain about how much they forget, the model does not predict the well-documented
+spacingeﬀect–where spaced repetitions lead to a higher probability of recall than massed learning with short intervals. However, when the decision-maker is uncertain about their forgetting rate, successfully recalling previously learned information during eﬀort exertion provides a more informative signal when a longer time has passed between initial learning and revision. This mechanism can explain the spacing eﬀect. Using a novel experimental design, I examine how decision-makers choose learning eﬀort and whether uncertainty about their memory influences their choices. Participants choose how long to revise a list of word pairs to succeed at a rewarded test when studying more is costly. I compare their eﬀort choices across two reward levels and two study schedules. Additionally, I investigate whether participants are willing to purchase a costly signal of their current memory strength. This experiment provides empirical evidence on how individuals account for memory constraints when making decisions about their own memory.
+
+**Disentangling Pure Time Preferences** \with Yoram Halevy
+
+Making decisions about the future is fundamentally related to the evaluation of uncertainty; any out-
+come expected to occur in the future is inherently uncertain. We propose a new experimental method
+to separate the pure time preferences from the discounting that arises due to this inherent uncertainty of future. The experiment consists of two parts. In the first part, we find the present probability equivalents for both a certain future payment and a risky future payment. In the second part, we measure the probability weighting function for immediate payments. We use the subproportionality of the probability weighting function to elicit the perceived probability of survival for any future payment, assuming that it is evaluated within the same probability weighting function for any risky payment.

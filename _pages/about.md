@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics, at the [University of Toronto](). My research focuses on xxxx.
+I am the Manager of the Toronto Experimental Economics Lab ([TEEL](https://teel.economics.utoronto.ca)), and a PhD candidate at the Department of Economics.
+
+I am interested in behavioral economics, microeconomic theory, and experimental economics. My current research interest is on memory, learning, and decision making under uncertainty and over time. 
 
 ### Education
 - Ph.D., [Economics](https://www.mie.utoronto.ca/), [University of Toronto](https://www.utoronto.ca/), 2026
@@ -16,11 +18,11 @@ I am a PhD candidate in Economics, at the [University of Toronto](). My research
 
 ### Contact Information
 Nazli Billur Gorgulu\
-XXX\
+Department of Economics\
 University of Toronto\
-XXX\
-XXX\
-Toronto, ON, XXX XXX, CANADA
+150 St. George St., Oﬃce 134\
+Toronto, Ontario
+M5S 3G7, Canada
 
 E-mail: [billurgorgulu@gmail.com](billurgorgulu@gmail.com)\
-Web: [https://research.degroote.mcmaster.ca/profiles/profile/?user=gorgulub](https://research.degroote.mcmaster.ca/profiles/profile/?user=gorgulub)
+Web: [https://billurgorgulu.github.io](https://billurgorgulu.github.io)

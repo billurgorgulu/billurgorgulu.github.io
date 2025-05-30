@@ -17,7 +17,7 @@ author_profile: true
 - ECO316: Applied Game Theory
 - ECO364: International Trade Theory
 
-**Bogazic University**
+**Bogazici University**
 - EC203: Intermediate Microeconomics
 - EC361: International Economics
 - EC308: Advanced Macroeconomics

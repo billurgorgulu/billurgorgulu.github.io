@@ -28,7 +28,8 @@ Why people trust without suﬃcient information about the trustworthiness of the
 
 ## Work In Progress
 
-**Disentangling Pure Time Preferences** \with Yoram Halevy
+**Disentangling Pure Time Preferences** with Yoram Halevy
 
 Making decisions about the future is fundamentally related to the evaluation of uncertainty; any outcome expected to occur in the future is inherently uncertain. We propose a new experimental method to separate the pure time preferences from the discounting that arises due to this inherent uncertainty of future. The experiment consists of two parts. In the first part, we find the present probability equivalents for both a certain future payment and a risky future payment. In the second part, we measure the probability weighting function for immediate payments. We use the subproportionality of the probability weighting function to elicit the perceived probability of survival for any future payment, assuming that it is evaluated within the same probability weighting function for any risky payment.
+
 

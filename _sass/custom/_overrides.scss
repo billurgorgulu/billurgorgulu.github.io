@@ -3,3 +3,11 @@
 .page__footer .page__footer-follow {
   display: none !important;
 }
+
+/* NEW: catch common sitemap link placements */
+.page__footer a[href$="/sitemap/"],
+.page__footer a[href$="/sitemap.xml"],
+.page__footer a[href*="sitemap"] { display: none !important; }
+
+/* If your theme renders it inside a list item, hide the whole <li> (modern browsers) */
+.page__footer li:has(> a[href*="sitemap"]) { display: none !important; }

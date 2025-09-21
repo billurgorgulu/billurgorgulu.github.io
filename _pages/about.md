@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,6 +28,7 @@ E-mail: [billur.gorgulu@mail.utoronto.ca](billur.gorgulu@mail.utoronto.ca)\
 Web: [https://billurgorgulu.github.io](https://billurgorgulu.github.io)
 
 I am also known as Nazli Billur Gorgulu, and Nazli Billur Biriz!
+
 
 
 

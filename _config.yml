@@ -83,11 +83,11 @@ author:
   name             : "Billur Görgülü"
   avatar           : "billur_profile.jpg"
   bio              : " "
-  location         : "Toronto, ON, Canada"
-  employer         : "University of Toronto"
+  location         : #""
+  employer         : "Department of Economics<br>University of Toronto<br>150 St. George St., Oﬃce 134<br>Toronto, ON M5S 3G7, Canada "
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :
+  email            :"billur.gorgulu@mail.utoronto.ca"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

@@ -11,6 +11,7 @@ title                    : "Billur Görgülü"
 title_separator          : "-"
 name                     : &name "Billur Görgülü"
 description              : &description "page description"
+minimal_mistakes_skin    : "mint"
 url                      : https://billurgorgulu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "billurgorgulu/billurgorgulu.github.io"
@@ -309,4 +310,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 

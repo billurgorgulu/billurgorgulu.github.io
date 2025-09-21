@@ -11,7 +11,6 @@ title                    : "Billur Görgülü"
 title_separator          : "-"
 name                     : &name "Billur Görgülü"
 description              : &description "page description"
-minimal_mistakes_skin    : "mint"
 url                      : https://billurgorgulu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "billurgorgulu/billurgorgulu.github.io"
@@ -85,7 +84,7 @@ author:
   avatar           : "billur_profile.jpg"
   bio              : " "
   location         : #""
-  employer         : "Department of Economics<br>University of Toronto<br>150 St. George St., Oﬃce 134<br>Toronto, ON M5S 3G7, Canada "
+  employer         : #""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            :"billur.gorgulu@mail.utoronto.ca"
@@ -310,5 +309,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 

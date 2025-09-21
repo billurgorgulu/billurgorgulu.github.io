@@ -87,7 +87,7 @@ author:
   employer         : "University of Toronto"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :"billur.gorgulu@mail.utoronto.ca"
+  email            : "billur.gorgulu@mail.utoronto.ca"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -309,6 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 

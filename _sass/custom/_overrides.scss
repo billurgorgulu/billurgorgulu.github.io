@@ -1,0 +1,5 @@
+/* Hide auto footer items (sitemap + feed) but keep SEO plugins active */
+.page__footer .footer__nav,
+.page__footer .page__footer-follow {
+  display: none !important;
+}

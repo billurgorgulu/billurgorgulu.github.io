@@ -11,3 +11,24 @@
 
 /* If your theme renders it inside a list item, hide the whole <li> (modern browsers) */
 .page__footer li:has(> a[href*="sitemap"]) { display: none !important; }
+
+/* Show all top nav items by wrapping instead of collapsing */
+.greedy-nav .visible-links {
+  display: flex;
+  flex-wrap: wrap;       /* allow 2 lines on small screens */
+  gap: 0;                /* tighten spacing if you like */
+}
+
+.greedy-nav .visible-links > li {
+  flex: 0 1 auto;        /* let items shrink */
+}
+
+.greedy-nav a {
+  padding: 0.4rem 0.6rem;  /* smaller padding so more fit */
+  font-size: 0.95rem;       /* slightly smaller text on mobile */
+}
+
+/* Hide the hamburger toggle entirely */
+.greedy-nav .greedy-nav__toggle {
+  display: none !important;
+}

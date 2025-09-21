@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the Department of Economics at the University of Toronto and the Manager of the Toronto Experimental Economics Lab ([TEEL](https://teel.economics.utoronto.ca)).
+I am a PhD candidate in Economics at the University of Toronto and the Manager of the Toronto Experimental Economics Lab ([TEEL](https://teel.economics.utoronto.ca)).
 
-My research lies at the intersection of behavioral economics, microeconomic theory, and experimental economics. I am currently working on how individuals learn, remember, and make decisions under uncertainty and over time. I use theoretical and experimental methods to study these questions.
+My research interests span behavioral economics, microeconomic theory, and experimental economics. I study decision-making in contexts such as how individuals learn and recall information, how they make choices under uncertainty and across time, how they establish and respond to trust, and how they behave in matching markets. My approach integrates theoretical modeling with experimental methods.
 
 I will be on the 2025-2026 job market.
 
-
+<br><br>
 
 
 ### Contact Information
@@ -27,6 +27,7 @@ E-mail: [billur.gorgulu@mail.utoronto.ca](billur.gorgulu@mail.utoronto.ca)\
 Web: [https://billurgorgulu.github.io](https://billurgorgulu.github.io)
 
 I am also known as Nazli Billur Gorgulu, and Nazli Billur Biriz!
+
 
 
 

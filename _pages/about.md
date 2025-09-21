@@ -13,7 +13,7 @@ My research interests span behavioral economics, microeconomic theory, and exper
 
 I will be on the 2025-2026 job market.
 
-<br><br>
+<br>
 
 
 ### Contact Information
@@ -23,10 +23,10 @@ University of Toronto\
 Toronto, Ontario
 M5S 3G7, Canada
 
-E-mail: [billur.gorgulu@mail.utoronto.ca](billur.gorgulu@mail.utoronto.ca)\
-Web: [https://billurgorgulu.github.io](https://billurgorgulu.github.io)
+e-mail: [billur.gorgulu@mail.utoronto.ca](billur.gorgulu@mail.utoronto.ca)\
 
 I am also known as Nazli Billur Gorgulu, and Nazli Billur Biriz!
+
 
 
 

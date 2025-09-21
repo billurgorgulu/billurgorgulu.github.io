@@ -11,3 +11,7 @@
 
 /* If your theme renders it inside a list item, hide the whole <li> (modern browsers) */
 .page__footer li:has(> a[href*="sitemap"]) { display: none !important; }
+
+body {
+  background-color: #faffff; /* change this code to test */
+}

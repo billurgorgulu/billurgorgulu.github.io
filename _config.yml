@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Billur Görgülü"
 title_separator          : "-"
 name                     : &name "Billur Görgülü"
-description              : &description "page description"
+description              : &description "Job Market Candidate in Economics at the University of Toronto"
 url                      : "https://billurgorgulu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "billurgorgulu/billurgorgulu.github.io"
@@ -309,6 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 

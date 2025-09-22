@@ -1,11 +1,14 @@
 # main links links
 main:    
+  - title: "CV"
+    url: https://billurgorgulu.github.io/files/CV.pdf
+
   - title: "Research"
     url: /research/
     
   - title: "Teaching"
     url: /teaching/
     
-  - title: "CV"
-    url: https://billurgorgulu.github.io/files/CV.pdf
+
+
 

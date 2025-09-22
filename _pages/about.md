@@ -25,7 +25,8 @@ M5S 3G7, Canada
 
 Email: [billur.gorgulu@mail.utoronto.ca](billur.gorgulu@mail.utoronto.ca) 
 
-I am also known as Nazli Billur Gorgulu, and Nazli Billur Biriz.
+I am also known as Nazli Billur Gorgulu.
+
 
 
 

@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Research Papers
-[**Optimal Learning When Forgetting**](https://billurgorgulu.github.io/files/JMP.pdf) (*Job Market Paper*)
+[**Optimal Memory Retention with Learning from Forgetting**](https://billurgorgulu.github.io/files/JMP.pdf) (*Job Market Paper*)
 
-If people know that they may forget information over time, do they strategically respond to their memory decay?  I develop a theoretical model of imperfect recall in which a decision-maker optimally shapes memory retention through learning effort. When the decision-maker attempts to recall past information from memory during the learning process, the success or failure of recall provides a signal about their own forgetting rate, leading to updated beliefs about memory strength and effort adjustment. This mechanism endogenously generates the spacing effect, a key property of human memory. I test the model's behavioral predictions with a novel laboratory experiment. The results show that participants are aware of their forgetting and choose their costly learning effort accordingly. Moreover, after observing a negative feedback about their actual memory strength, participants adjust their behavior by choosing a higher effort. These findings suggest that individuals can deliberately manage their memory through effort, making imperfect recall an endogenous component of decision-making.
+If people know that they may forget information over time, do they strategically respond to their memory decay?  I develop a theoretical model of imperfect recall in which a decision-maker optimally shapes memory retention through effort choice. When the decision-maker attempts to recall previously encoded data, the success or failure of recall provides a signal about their own forgetting rate, leading to updated beliefs about memory strength and effort adjustment. This mechanism endogenously generates the spacing effect, a key property of human memory. I test the model's behavioral predictions with a novel laboratory experiment. The results show that participants are aware of their forgetting and choose their costly effort for memorization accordingly. Moreover, after observing negative feedback about their actual memory strength, participants adjust their behavior by choosing a higher effort. These findings suggest that individuals can deliberately manage their memory retention through effort, making imperfect recall an endogenous component of decision-making.
 
 
 **Eliciting Present Bias Under Uncertainty** (*draft available upon request*) with Johannes Hoelzemann and Yoram Halevy
@@ -28,6 +28,7 @@ Why people trust without suﬃcient information about the trustworthiness of the
 Making decisions about the future is fundamentally related to the evaluation of uncertainty; any outcome expected to occur in the future is inherently uncertain. We propose a new experimental method to separate the pure time preferences from the discounting that arises due to this inherent uncertainty of future. The experiment consists of two parts. In the first part, we find the present probability equivalents for both a certain future payment and a risky future payment. In the second part, we measure the probability weighting function for immediate payments. We use the subproportionality of the probability weighting function to elicit the perceived probability of survival for any future payment, assuming that it is evaluated within the same probability weighting function for any risky payment.
 
 **Bounded Rationality in Decentralized Matching Markets** with Sean M. T. Elliott
+
 
 
 

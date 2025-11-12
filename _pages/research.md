@@ -8,7 +8,7 @@ author_profile: true
 ## Research Papers
 <details>
   <summary class="no-marker">
-    <strong>Optimal Memory Retention with Learning from Forgetting</strong>  <a href="https://billurgorgorgulu.github.io/files/JMP.pdf">[PDF]</a> (<em>Job Market Paper</em>)
+    <strong>Optimal Memory Retention with Learning from Forgetting</strong>  <a href="https://billurgorgulu.github.io/files/JMP.pdf">[PDF]</a> (<em>Job Market Paper</em>)
   </summary>
   <blockquote style="margin-top: 10px;">
    <p>
@@ -39,6 +39,7 @@ Why people trust without suﬃcient information about the trustworthiness of the
 
 
 **Bounded Rationality in Decentralized Matching Markets** with Sean M. T. Elliott
+
 
 
 

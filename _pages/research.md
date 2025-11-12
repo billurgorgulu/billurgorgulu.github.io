@@ -13,7 +13,6 @@ If people know that they may forget information over time, do they strategically
 
 **Eliciting Present Bias Under Uncertainty** (*draft available upon request*) with Johannes Hoelzemann and Yoram Halevy
 
-We experimentally investigate intertemporal preferences under uncertainty. Our novel design allows the direct comparison of intertemporal preferences for certain, risky, and ambiguous future monetary rewards using choice lists. The results of our experiments suggest a significant impact of risk and ambiguity on time preferences: there is a lower incidence of present bias and a higher incidence of stationarity for uncertain payments compared to certain payments. Further, present bias for certain payments is correlated with static ambiguity aversion. We also investigate possible contamination of the elicited time preferences for immediate certain payments from the choice lists. This robustness experiment consists of a single binary choice problem and shows that present bias might even be underestimated using choice lists.
 
 
 **Vulnerability as Strength: Trusting as a Credible Signal of Competence** (*draft available upon request*) with Yuval Deutsch and Sabrina Deutsch Salamon
@@ -27,6 +26,7 @@ Why people trust without suﬃcient information about the trustworthiness of the
 
 
 **Bounded Rationality in Decentralized Matching Markets** with Sean M. T. Elliott
+
 
 
 

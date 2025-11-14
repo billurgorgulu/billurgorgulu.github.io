@@ -17,8 +17,19 @@ If people know that they may forget information over time, do they strategically
   </blockquote>
 </details>
 
-**Eliciting Present Bias Under Uncertainty** (*draft available upon request*) with Johannes Hoelzemann and Yoram Halevy
 
+
+<details>
+<summary class="no-marker">
+    <strong>Uncertain Present Bias</strong> (<em>draft available upon request</em>) with Johannes Hoelzemann and Yoram Halevy
+  </summary>
+  <blockquote style="margin-top: 10px;">
+    <p>
+Understanding if and how uncertainty shapes diminishing impatience is central to theories of intertemporal choice. We report the first incentivized experiment that directly compares present bias across certain, risky, and ambiguous monetary outcomes. Relative to certainty, uncertainty attenuates present bias, yielding more stationary choices. Moreover, present bias for certain payments is positively associated with ambiguity aversion. Together, these results suggest that uncertainty systematically interacts with time preferences and caution against models that treat intertemporal choice separable from attitude towards uncertainty.
+
+</p>
+  </blockquote>
+</details>
 
 
 <details>
@@ -39,6 +50,7 @@ Why people trust without suﬃcient information about the trustworthiness of the
 
 
 **Bounded Rationality in Decentralized Matching Markets** with Sean M. T. Elliott
+
 
 
 

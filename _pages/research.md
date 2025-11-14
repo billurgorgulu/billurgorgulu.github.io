@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research Papers
-<details>
+<details style="margin-bottom: 1.5em;">
   <summary class="no-marker">
     <strong>Optimal Memory Retention with Learning from Forgetting</strong>  <a href="https://billurgorgulu.github.io/files/JMP.pdf">[PDF]</a> (<em>Job Market Paper</em>)
   </summary>
@@ -19,7 +19,7 @@ If people know that they may forget information over time, do they strategically
 
 
 
-<details>
+<details style="margin-bottom: 1.5em;">
 <summary class="no-marker">
     <strong>Uncertain Present Bias</strong> (<em>draft available upon request</em>) with Johannes Hoelzemann and Yoram Halevy
   </summary>
@@ -32,7 +32,7 @@ Understanding if and how uncertainty shapes diminishing impatience is central to
 </details>
 
 
-<details>
+<details style="margin-bottom: 1.5em;">
 <summary class="no-marker">
     <strong>Vulnerability as Strength: Trusting as a Credible Signal of Competence</strong> (<em>draft available upon request</em>) with Yuval Deutsch and Sabrina Deutsch Salamon
   </summary>
@@ -50,6 +50,7 @@ Why people trust without suﬃcient information about the trustworthiness of the
 
 
 **Bounded Rationality in Decentralized Matching Markets** with Sean M. T. Elliott
+
 
 
 

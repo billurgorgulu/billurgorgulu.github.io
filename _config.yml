@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Billur Görgülü"
 title_separator          : "-"
 name                     : &name "Billur Görgülü"
-description              : &description "Job Market Candidate in Economics at the University of Toronto"
+description              : &description "Assistant Professor of Economics at McMaster University"
 url                      : "https://billurgorgulu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "billurgorgulu/billurgorgulu.github.io"
@@ -84,10 +84,10 @@ author:
   avatar           : "billur_profile.jpg"
   bio              : " "
   location         : #""
-  employer         : "University of Toronto"
+  employer         : "McMaster University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "billur.gorgulu@mail.utoronto.ca"
+  email            : "gorgulun@mcmaster.ca"
   researchgate     : 
   uri              :
   bitbucket        :
